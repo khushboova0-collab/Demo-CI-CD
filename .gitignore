@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+# 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---- git tokrn
 node_modules
 dist
 dist-ssr
