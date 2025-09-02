@@ -55,8 +55,8 @@ const Home = () => {
             </div>
             
             {/* Hero Title */}
-            <h1 className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold mb-8 animate-slide-up">
-              <span className="gradient-text">Welcome to</span>
+            <h1 className="text-6xl md:text-6xl lg:text-6xl font-heading font-bold mb-8 animate-slide-up">
+              <span className="gradient-text">Welcome to Sales and Service</span>
               <br />
               <span className="text-gradient-primary">DiagnoseMed</span>
             </h1>
